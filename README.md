@@ -12,10 +12,10 @@ wget http://skills.projectalice.ch/RockPaperScissors -O ~/ProjectAlice/system/sk
 ### Description
 Play rock paper scissors
 
-- Version: 0.0.18
+- Version: 1.0.0
 - Author: maxbachmann
 - Maintainers: Jierka, Psycho
-- Alice minimum Version: 1.0.0-a4
+- Alice minimum Version: 1.0.0-a5
 - Conditions:
   - en
   - de
