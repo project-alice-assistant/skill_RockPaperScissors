@@ -1,7 +1,7 @@
 {
 	"name": "RockPaperScissors",
 	"version": "1.0.0",
-	"icon": "battle-net",
+	"icon": "fab fa-battle-net",
 	"author": "maxbachmann",
 	"maintainers": ["Jierka", "Psycho"],
 	"desc": "Play rock paper scissors",
