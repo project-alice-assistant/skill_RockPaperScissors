@@ -1,6 +1,6 @@
 {
 	"name": "RockPaperScissors",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"icon": "fab fa-battle-net",
 	"author": "maxbachmann",
 	"maintainers": ["Jierka", "Psycho"],
