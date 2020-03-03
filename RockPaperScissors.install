@@ -2,7 +2,7 @@
 	"name": "RockPaperScissors",
 	"version": "1.0.1",
 	"icon": "fab fa-battle-net",
-	"category": "undefined",
+	"category": "game",
 	"author": "maxbachmann",
 	"maintainers": ["Jierka", "Psycho"],
 	"desc": "Play rock paper scissors",
