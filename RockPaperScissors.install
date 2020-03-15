@@ -1,7 +1,7 @@
 {
 	"name": "RockPaperScissors",
 	"version": "1.0.1",
-	"icon": "fab fa-battle-net",
+	"icon": "fas fa-hand-scissors",
 	"category": "game",
 	"author": "maxbachmann",
 	"maintainers": ["Jierka", "Psycho"],
