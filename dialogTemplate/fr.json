@@ -1,12 +1,9 @@
 {
 	"skill": "RockPaperScissors",
-	"icon": "lamp",
-	"description": "Jouer à pierre feuille ciseaux",
 	"slotTypes": [],
 	"intents": [
 		{
 			"name": "RockPaperScissors",
-			"description": "L'utilisateur souhaite jouer à pierre feuille ciseaux",
 			"enabledByDefault": true,
 			"utterances": [
 				"pierre, feuille, ciseaux",
