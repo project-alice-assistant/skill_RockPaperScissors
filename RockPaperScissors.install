@@ -1,22 +1,25 @@
 {
-	"name": "RockPaperScissors",
-	"version": "1.0.1",
-	"icon": "fas fa-hand-scissors",
-	"category": "game",
-	"author": "maxbachmann",
-	"maintainers": ["Jierka", "Psycho"],
-	"desc": "Play rock paper scissors",
-	"aliceMinVersion": "1.0.0-a5",
-	"systemRequirements": [],
-	"pipRequirements": [],
-	"conditions": {
-		"lang": [
-			"en",
-			"de",
-			"fr"
-		],
-		"notSkill": [
-		    "Psychokiller1888/Minigames"
-		]
-	}
+    "name": "RockPaperScissors",
+    "version": "1.0.2",
+    "icon": "fas fa-hand-scissors",
+    "category": "game",
+    "author": "maxbachmann",
+    "maintainers": [
+        "Jierka",
+        "Psycho"
+    ],
+    "desc": "Play rock paper scissors",
+    "aliceMinVersion": "1.0.0-a5",
+    "systemRequirements": [],
+    "pipRequirements": [],
+    "conditions": {
+        "lang": [
+            "en",
+            "de",
+            "fr"
+        ],
+        "notSkill": [
+            "Psychokiller1888/Minigames"
+        ]
+    }
 }
