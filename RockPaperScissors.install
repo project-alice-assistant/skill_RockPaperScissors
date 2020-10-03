@@ -1,6 +1,6 @@
 {
     "name": "RockPaperScissors",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "icon": "fas fa-hand-scissors",
     "category": "game",
     "author": "maxbachmann",
@@ -9,7 +9,7 @@
         "Psycho"
     ],
     "desc": "Play rock paper scissors",
-    "aliceMinVersion": "1.0.0-a5",
+    "aliceMinVersion": "1.0.0-b3",
     "systemRequirements": [],
     "pipRequirements": [],
     "conditions": {
