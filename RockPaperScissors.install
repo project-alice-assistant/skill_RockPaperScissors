@@ -1,6 +1,6 @@
 {
     "name": "RockPaperScissors",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "icon": "fas fa-hand-scissors",
     "category": "game",
     "author": "maxbachmann",
